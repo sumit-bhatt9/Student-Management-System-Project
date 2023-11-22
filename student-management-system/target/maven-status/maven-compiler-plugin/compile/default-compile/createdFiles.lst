@@ -1,0 +1,6 @@
+com\springboot\sms\controller\UserController.class
+com\springboot\sms\StudentManagementSystemApplication.class
+com\springboot\sms\repository\StudentRepository.class
+com\springboot\sms\service\impl\StudentServiceImpl.class
+com\springboot\sms\service\StudentService.class
+com\springboot\sms\entity\Student.class
