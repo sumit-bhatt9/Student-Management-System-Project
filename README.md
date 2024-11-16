@@ -1,4 +1,4 @@
-# Student-Management-System-Project
+# EduFlex
 # Team Members:
 1. Ayush Baluni 
 2. Sumit Bhatt
